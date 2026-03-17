@@ -140,6 +140,8 @@ Star the repository on GitHub, then click "Get Auth Tokens" to access your authe
 ## ⚠️ Legal Disclaimer
 
 This project is Completely Licensed by AMAZON! 
+Amazon uses Widevine DRM this repo uses that but is authenticated by AMAZON as Listed on AMAZON-LICENSE.md
+Do not use this Project for anything illegal. You are officially allowed to use the api in any Amazon Product related Project.
 
 ---
 
