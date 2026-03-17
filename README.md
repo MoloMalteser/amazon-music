@@ -3,27 +3,7 @@
 
 # 🎵 Amazon Music API – Unofficial
 
-A **FastAPI REST API** for Amazon Music offering metadata, playback, search, and lookups for tracks, albums, artists, playlists, and podcasts. Includes streaming URL extraction and Widevine DRM key retrieval.
-<p>
-  <a href="https://github.com/AmineSoukara/amazon-music/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/AmineSoukara/amazon-music" alt="Contributors">
-  </a>
-  <a href="https://github.com/AmineSoukara/amazon-music/commits/main">
-    <img src="https://img.shields.io/github/last-commit/AmineSoukara/amazon-music" alt="Last commit">
-  </a>
-  <a href="https://github.com/AmineSoukara/amazon-music/network/members">
-    <img src="https://img.shields.io/github/forks/AmineSoukara/amazon-music" alt="Forks">
-  </a>
-  <a href="https://github.com/AmineSoukara/amazon-music/stargazers">
-    <img src="https://img.shields.io/github/stars/AmineSoukara/amazon-music?color=yellow" alt="Stars">
-  </a>
-  <a href="https://github.com/AmineSoukara/amazon-music/issues">
-    <img src="https://img.shields.io/github/issues/AmineSoukara/amazon-music?color=purple" alt="Open Issues">
-  </a>
-  <a href="https://github.com/AmineSoukara/amazon-music/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/AmineSoukara/amazon-music.svg" alt="License">
-  </a>
-</p>
+A **FastAPI REST API** for Amazon Music offering metadata, playback, search, and lookups for tracks, albums, artists, playlists, and podcasts. 
 
 <h4>
   <a href="https://amz.dezalty.com">API Docs</a>
@@ -159,9 +139,7 @@ Star the repository on GitHub, then click "Get Auth Tokens" to access your authe
 
 ## ⚠️ Legal Disclaimer
 
-This project is intended for **educational and research purposes only**. It interacts with **Amazon’s internal APIs**, which may **violate their [Terms of Service](https://www.amazon.com/gp/help/customer/display.html?nodeId=508088)**.
-The authors are **not affiliated with Amazon**. This software is provided **“as is” without any warranties**, express or implied. Use of this tool is **at your own risk**, and you are solely responsible for ensuring **compliance with applicable laws and terms** in your country or region.
-This project is **non-commercial** and does **not host or distribute any Amazon-owned content**.
+This project is Completely Licensed by AMAZON! 
 
 ---
 
