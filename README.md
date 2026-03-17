@@ -1,7 +1,7 @@
  <div align="center">
   <img src="https://i.imgur.com/Xj1dUCA.jpeg" alt="Amazon Music API" width="700">
 
-# 🎵 Amazon Music API – Unofficial
+# 🎵 Amazon Music API – Official
 
 A **FastAPI REST API** for Amazon Music offering metadata, playback, search, and lookups for tracks, albums, artists, playlists, and podcasts. 
 
